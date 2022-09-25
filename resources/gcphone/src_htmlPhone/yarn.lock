@@ -242,7 +242,7 @@ babel-core@^6.22.1, babel-core@^6.24.1:
     babel-runtime "^6.22.0"
     babel-template "^6.25.0"
     babel-traverse "^6.25.0"
-    babel-types "^6.25.0"
+    babel-types "^6.25.0" 
     babylon "^6.17.2"
     convert-source-map "^1.1.0"
     debug "^2.1.1"
@@ -1275,7 +1275,7 @@ cosmiconfig@^2.1.0, cosmiconfig@^2.1.1:
   dependencies:
     is-directory "^0.3.1"
     js-yaml "^3.4.3"
-    minimist "^1.2.0"
+    minimist "^1.2.6"
     object-assign "^4.1.0"
     os-homedir "^1.0.1"
     parse-json "^2.2.0"
